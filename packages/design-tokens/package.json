@@ -1,0 +1,14 @@
+{
+  "name": "@jn76g7re6eaetkbr28pxzdp73x7sk4zg/design-tokens",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "private": true,
+  "peerDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
